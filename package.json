@@ -1,0 +1,9 @@
+{
+  "name": "bio",
+  "version": "1.0.0",
+  "description": "a simple bio page",
+  "main": "index.js",
+  "repository": "https://github.com/papsot/bio.git",
+  "author": "Sotiris Papasotiriou <sot.pap85@gmail.com>",
+  "license": "MIT"
+}
